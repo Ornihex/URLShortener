@@ -5,7 +5,7 @@ from pprint import pprint
 import os
 from dotenv import load_dotenv
 
-dotenv_path = r'E:\Projects\URLShortener\.env'
+dotenv_path = r'E:\Projects\URLShortener\.env' #path to .env
 if os.path.exists(dotenv_path):
     load_dotenv(dotenv_path)
 
