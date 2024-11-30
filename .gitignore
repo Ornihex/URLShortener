@@ -1,0 +1,5 @@
+.env
+.git
+urlshortener/app\models/__pycache__
+urlshortener/app\models/__pycache__
+urlshortener/app\routes/__pycache__
