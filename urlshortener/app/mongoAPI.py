@@ -106,4 +106,3 @@ class MongoDB(object):
         '''
         data = self._collection.find_one({'shortCode': shortCode})
         pprint(data)
-        return data
